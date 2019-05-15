@@ -1,0 +1,19 @@
+{
+  "name": "tic-tak-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tick-tac-toe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harjap1996/tic-tak-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harjap1996/tic-tak-toe/issues"
+  },
+  "homepage": "https://github.com/Harjap1996/tic-tak-toe#readme"
+}
